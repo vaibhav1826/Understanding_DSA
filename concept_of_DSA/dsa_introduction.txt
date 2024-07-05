@@ -1,0 +1,1 @@
+Data structure :- these are a way to arrange data in main memory for effecient usage.
