@@ -1,1 +1,6 @@
-Data structure :- these are a way to arrange data in main memory for effecient usage.
+some basic terminologies
+
+1. Data structure :- these are a way to arrange data in main memory for effecient usage.
+2. Algorithm :- sequence of steps to solve a given problem
+3. database :- collection of permanent storage for faster retrival and updation
+4. database warehouse :- management of huge amount  of legacy data for better analayis
