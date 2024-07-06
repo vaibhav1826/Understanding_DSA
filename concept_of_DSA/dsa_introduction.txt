@@ -1,6 +1,26 @@
 some basic terminologies
 
 1. Data structure :- these are a way to arrange data in main memory for effecient usage.
+
 2. Algorithm :- sequence of steps to solve a given problem
+
 3. database :- collection of permanent storage for faster retrival and updation
+
 4. database warehouse :- management of huge amount  of legacy data for better analayis
+
+5. Time complexity ---> time taken by Algorithm TO execute it effeciently with 
+the increase of input
+
+why time complexity ??
+--> for making better programs
+-->for comparision of Algorithm
+
+6. big O  notation (upper bound):- a function f(n) is said to  be  big O g(n)  
+iff there exist constant c and a constant n such that 
+                        0 <= f(n) <= c * g(n)
+
+in big o notation means ki wrost case ab isse upper nhi jayega
+
+7. theta Q notation :- (average -case complexity)
+
+8. omega notation : - (lower bounnd complexity)
