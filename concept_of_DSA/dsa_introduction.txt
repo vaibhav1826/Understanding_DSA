@@ -24,3 +24,4 @@ in big o notation means ki wrost case ab isse upper nhi jayega
 7. theta Q notation :- (average -case complexity)
 
 8. omega notation : - (lower bounnd complexity)
+
