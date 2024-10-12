@@ -18,11 +18,11 @@ int partition(int arr[], int start, int end)
     int j = end;
     while (i < pivet_index && pivet_index < j)
     {
-        while (arr[i] <= pivet_index)
+        while (arr[i] <= pivet)
         {
             i++;
         }
-        while (arr[j] > pivet_index)
+        while (arr[j] > pivet)
         {
             j--;
         }
@@ -48,7 +48,7 @@ void quicksort(int arr[], int start, int end)
 
 int main()
 {
-    int arr[5] = {4, 2, 3, 1, 8};
+    int arr[5] = {4, 5, 3, 1, 8};
     int end = 5;
     quicksort(arr, 0, end - 1);
     for (int i = 0; i < 5; i++)
