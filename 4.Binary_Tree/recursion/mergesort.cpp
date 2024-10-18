@@ -71,7 +71,7 @@ int main()
     int arr[6] = {12, 54, 1, 3, 86, 42};
     int s = 0;
     int e = 5;
-    mergesort(arr, s, e);
+    mergesort(arr, s, e - 1);
 
     for (int i = s; i <= e; i++)
     { // Print all elements including the last one
